@@ -1,0 +1,49 @@
+body{
+    background-color: #fdecf1;
+}
+
+h1{
+    color:#ff9f1c;
+    text-align: center;
+    font-family: 'Belanosima', sans-serif;
+    font-size: xx-large;
+}
+
+h2{
+    color:#da4f97;
+    text-align: center;
+    font-family: 'Belanosima', sans-serif;
+    font-size: x-large;
+    margin-bottom: 40px;
+}
+
+h3{
+    color:#f7a3d0;
+    font-family: 'Arvo', serif;
+    font-size: large;
+    margin-top: 40px;
+}
+
+p{
+    color: #202c39;
+    font-family: Trebuchet MS, sans-serif;
+    margin-left: 25px;
+}
+
+ul li{
+    color: #202c39;
+    font-family: Trebuchet MS, sans-serif;
+    margin-left: 25px;
+    margin-block-start: auto;
+}
+
+a:link{
+    color: #87baab;
+    font-family: 'Raleway', sans-serif;
+    font-size: medium;
+    text-decoration: none;
+}
+
+a:visited{
+    color:#c369f0;
+}

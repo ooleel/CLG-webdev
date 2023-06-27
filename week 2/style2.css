@@ -1,0 +1,28 @@
+body{
+    background-color: #fdecf1;
+    text-align: center;
+}
+
+h1{
+    color:#ff9f1c;
+    text-align: center;
+    font-family: 'Belanosima', sans-serif;
+    font-size: xx-large;
+}
+
+p{
+    color: #202c39;
+    font-family: Trebuchet MS, sans-serif;
+    margin-left: 25px;
+}
+
+a:link{
+    color: #87baab;
+    font-family: 'Raleway', sans-serif;
+    font-size: medium;
+    text-decoration: none;
+}
+
+a:visited{
+    color:#c369f0;
+}
