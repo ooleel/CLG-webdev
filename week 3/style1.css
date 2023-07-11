@@ -1,0 +1,40 @@
+/*text*/
+body{
+    background-color: #fdecf1;
+}
+
+h1{
+    color:#ff9f1c;
+    text-align: center;
+    font-family: 'Belanosima', sans-serif;
+    font-size: xx-large;
+}
+
+h2{
+    color:#821451;
+    text-align: center;
+    font-family: 'Belanosima', sans-serif;
+    font-size: x-large;
+    margin-bottom: 40px;
+}
+
+h3{
+    color:#d667a3;
+    font-family: 'Arvo', serif;
+    font-size: large;
+    margin-top: 40px;
+}
+
+p{
+    color: #1d1a39;
+    font-family: Trebuchet MS, sans-serif;
+    margin-left: 25px;
+}
+
+ul li{
+    color: #1d1a39;
+    font-family: Trebuchet MS, sans-serif;
+    margin-left: 25px;
+    margin-top: 0;
+}
+

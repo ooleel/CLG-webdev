@@ -1,0 +1,34 @@
+/*images*/
+img{
+    height: 200px;
+    border-radius: 20px;
+    border: 2px #df82b3 dashed;
+    opacity: 0.75;
+}
+
+/*links*/
+a:link{
+    color: #87baab;
+    font-family: 'Raleway', sans-serif;
+    font-size: medium;
+    text-decoration: none;
+}
+
+a:visited{
+    color:#c369f0;
+}
+
+/*tables*/
+table{
+    width: auto;
+    border: 2px solid #de6fde;
+    border-collapse: collapse;
+}
+
+th, td{
+    padding: 15px;
+    text-align: center;
+    /*font-family: 'Raleway' sans-serif;*/
+}
+
+tr:hover{background-color: #df82b3;}
