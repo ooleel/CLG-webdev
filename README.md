@@ -8,4 +8,11 @@ The assignment for this introductory section was:
 
 ### Week 2
 - Update of the page created in the first section.
-- The aim of this section's assignment was to add links and style to the page created previously and add a 'Contact us' page.
+- The aim of this section's assignment was to add **links** and style to the page created previously and add a **'Contact us' page**.
+
+### Week 3
+- Update of the pages created previously and rearranging stylesheets.
+- The aim of this section's assignment was to add some **lists**, **tables**, **images**.
+
+### Week 4
+_to be updated_
