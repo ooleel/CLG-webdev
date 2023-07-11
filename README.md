@@ -14,5 +14,7 @@ The assignment for this introductory section was:
 - Update of the pages created previously and rearranging stylesheets.
 - The aim of this section's assignment was to add some **lists**, **tables**, **images**.
 
-### Week 4
+### Week 4 &rarr; Divs, spans, ids and classes
+- Update of the existing pages.
+
 _to be updated_
