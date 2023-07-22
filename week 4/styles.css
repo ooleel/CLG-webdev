@@ -1,0 +1,41 @@
+body{
+    background-color: #fef6ea;
+}
+
+h1{
+    font-family: 'Montserrat', sans-serif;
+    color: #f00699;
+}
+
+h2{
+    font-family: 'Lora', sans-serif;
+}
+
+#title1{
+    color: #ff7d00;
+}
+
+#title2{
+    color: #00a6ed;
+}
+
+#sec1{
+    background-color: #f0f2a6;
+}
+
+#sec2{
+    background: no-repeat center/100% url(/pink_pattern_polka_dots.jpg);
+    /*opacity: 0.4;*/
+}
+
+p{
+    font-family: 'Hind Madurai', sans-serif;
+    color: #424b54;
+}
+
+.note{
+    font-family: 'Courier New', monospace;
+    font-style: italic;
+    font-size: x-small;
+    color: purple; 
+}
