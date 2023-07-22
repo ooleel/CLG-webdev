@@ -15,6 +15,6 @@ The assignment for this introductory section was:
 - The aim of this section's assignment was to add some **lists**, **tables**, **images**.
 
 ### Week 4 &rarr; Divs, spans, ids and classes
-- Update of the existing pages.
+- New page demonstrating what has been learnt this week.
 
 _to be updated_
