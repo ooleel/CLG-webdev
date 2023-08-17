@@ -1,0 +1,81 @@
+body{background-color: aliceblue;}
+
+/*header*/
+h1{
+    font-family: 'Montserrat', sans-serif;
+    color: #f00699;
+}
+
+#intro{
+    background-image: url(seamless_pattern.jpg);
+    text-align: center;
+}
+
+#descrip{
+    font-family: 'Roboto Slab', serif;
+    font-size: small;
+}
+
+/*main*/
+h2{font-family: 'Lora', sans-serif;}
+
+#title1{color: #ff7d00;}
+
+#sec1{background-color: #f0f2b1;}
+
+#image1{
+    border: 5px dotted #e9f10e;
+    position: relative;
+    left: 245px; /*so it's centered with the text when the page is displayed with full width*/
+}
+
+#title2{color: #088cff;}
+
+#sec2{background: #e9b4cc;}
+
+#image2{
+    border: 5px inset #f677b0;
+    position: relative;
+    left: 270px; /*so it's centered with the text when the page is displayed with full width*/
+}
+
+p{
+    font-family: 'Hind Madurai', sans-serif;
+    color: #424b54;
+}
+
+.note{
+    font-family: 'Courier New', monospace;
+    font-style: italic;
+    font-size: x-small;
+    color: purple; 
+}
+
+#caption{background-color: lavender;}
+
+/*positioning*/
+#star1{position: static; width: 55px; height:50px;}
+
+#star2{position: absolute; top: 50px; left: 150px;width: 55px; height:50px;}
+
+#star3{position: fixed; bottom: 0; right: 0; width: 55px; height:50px;}
+
+/*selectors*/
+h3{
+    font-family: 'Lora', sans-serif;
+    color:darkorchid;
+}
+
+p span {background-color: cornflowerblue;}
+
+li{
+    font-family: 'Hind Madurai', sans-serif;
+    color: #424b54;
+}
+
+li:first-child > span {color:darkorchid;}
+
+#child {color:darkorange;}
+
+li li:last-child > span {color: cornflowerblue;}
+

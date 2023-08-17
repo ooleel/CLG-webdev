@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="styles.css">
+    <link href="https://fonts.googleapis.com/css2?family=Hind+Madurai:wght@300&family=Lora:ital@1&family=Montserrat:wght@700&family=Roboto+Slab:wght@200&display=swap" rel="stylesheet">
+    <title>W5 assignment</title>
+</head>
+
+<body>
+    <div id="intro">
+        <h1>Heading 1</h1>
+        <p id="descrip">Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+    </div> 
+
+    <img id="star1" src="star.png" alt="static" title="Static positioning">
+
+    <h2 id="title1">First example</h2>
+    <div id="sec1">
+        <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit.</p>
+        <p><em>Sunt amet odit deleniti vel est!</em><br>
+        Placeat aliquam vitae vel quam, asperiores qui alias nobis velit eum nulla illo officia optio doloribus.</p>
+        <img id="star2" src="star.png" alt="absolute" title="Absolute positioning">
+        <img id="image1" src="https://picsum.photos/200" alt="deco">
+    </div>
+    
+    <h2 id="title2">Second example</h2> 
+    <div id="sec2">
+        <img id="star3" src="star.png" alt="fixed" title="Fixed positioning">
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+        <p><strong>Maiores</strong>, culpa aspernatur explicabo ut laudantium dolorem voluptates tempora in ullam, <del>ex</del> <ins>neo</ins> voluptatibus? <sup class="note">*note</sup><br>
+        Officia harum dolorem blanditiis similique soluta nesciunt iure mollitia!</p>
+        <img id="image2" src="https://picsum.photos/200" alt="deco">
+    </div>
+    
+    <p><sub class="note" id="caption"><sup>*</sup>I don't speak latin...</sub></p>
+
+    <div>
+        <h3>About CSS selectors</h3>
+        <p>We can style HTML elements using different techniques.</p>
+        <p>We can target some elements more precisely with two types of <span>selectors</span>.</p>
+        <ul>
+            <li>using <span>descendant</span> selectors
+                <ul>
+                    <li>as long they are located inside that element</li>
+                    <li>that's how you write the CSS property: <span>ancestor descendant{styling}</span></li>
+                </ul>
+            </li>
+            
+            <li>using <span id="child">children</span> selectors
+                <ul>
+                    <li>when the element is located only one level deeper</li>
+                    <li>that's how you write the CSS property: <span>ancestor>child{styling}</span></li>
+                </ul>
+            </li>
+        </ul>
+    </div>
+
+</body>
+
+</html>
