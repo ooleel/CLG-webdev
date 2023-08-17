@@ -17,4 +17,9 @@ The assignment for this introductory section was:
 ### Week 4 &rarr; Divs, spans, ids and classes
 - New page demonstrating what has been learnt this week.
 
+### Week 5
+- Update of the page created the week before with CSS positioning and using children and descendant selectors.
+
+### Week 6
+
 _to be updated_
