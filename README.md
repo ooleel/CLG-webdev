@@ -30,5 +30,7 @@ The assignment for this introductory section was:
 ### Week 8
 >Enhance your online journal with Responsive Web Design.
 
+_(only one version has been uploaded for weeks 6 to 8 in a single folder)_
+
 
 _to be updated_
